@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on PSWAPNEET.com</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on PSWAPNEET.com</description>
+    <title>Hugo on PSWAPNEET.com</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in Hugo on PSWAPNEET.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Jul 2022 22:51:42 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jul 2022 22:51:42 +0200</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The blog site is deployed! How did I do it?</title>
       <link>/posts/deployed/</link>
@@ -14,15 +14,6 @@
       
       <guid>/posts/deployed/</guid>
       <description>Instructions for Railway.app simple deployment! A quick update on how it is deployed and comments on the immediate future! I don&amp;rsquo;t need a database, so I use Hugo, and theme is called PaperMod. I would like a slightly different layout, but this will have to do for now since I need to work on other things than CSS. I will add some more graphics as soon as possible and update the About and Links page.</description>
-    </item>
-    
-    <item>
-      <title>I&#39;m Working On It!</title>
-      <link>/posts/working/</link>
-      <pubDate>Sun, 24 Jul 2022 21:29:43 +0200</pubDate>
-      
-      <guid>/posts/working/</guid>
-      <description>I&amp;rsquo;m working on it! A timeless phrase that all NEETs should always remember. Well, July is almost over, I said I was working on something, so here it is, it&amp;rsquo;s not much for now but it&amp;rsquo;s something. I&amp;rsquo;m learning the DevOps to get things as right as possible from the get-go.</description>
     </item>
     
   </channel>
