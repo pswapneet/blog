@@ -1,0 +1,483 @@
+2022/07/27 01:02:15 [notice] 1#1: using the "epoll" event method
+2022/07/27 01:02:15 [notice] 1#1: nginx/1.22.0
+2022/07/27 01:02:15 [notice] 1#1: built by gcc 11.3.0 (GCC)
+2022/07/27 01:02:15 [notice] 1#1: OS: Linux 4.19.0-20-cloud-amd64
+2022/07/27 01:02:15 [notice] 1#1: getrlimit(RLIMIT_NOFILE): 1048576:1048576
+2022/07/27 01:02:15 [notice] 1#1: start worker processes
+2022/07/27 01:02:15 [notice] 1#1: start worker process 11
+2022/07/27 01:02:15 [notice] 1#1: start worker process 12
+2022/07/27 01:02:15 [notice] 1#1: start worker process 13
+2022/07/27 01:02:15 [notice] 1#1: start worker process 14
+2022/07/27 01:02:15 [notice] 1#1: start worker process 15
+2022/07/27 01:02:15 [notice] 1#1: start worker process 16
+2022/07/27 01:02:15 [notice] 1#1: start worker process 17
+2022/07/27 01:02:15 [notice] 1#1: start worker process 18
+2022/07/27 01:02:15 [notice] 1#1: start worker process 19
+2022/07/27 01:02:15 [notice] 1#1: start worker process 20
+2022/07/27 01:02:15 [notice] 1#1: start worker process 21
+2022/07/27 01:02:15 [notice] 1#1: start worker process 22
+2022/07/27 01:02:15 [notice] 1#1: start worker process 23
+2022/07/27 01:02:15 [notice] 1#1: start worker process 24
+2022/07/27 01:02:15 [notice] 1#1: start worker process 25
+2022/07/27 01:02:15 [notice] 1#1: start worker process 26
+2022/07/27 01:02:15 [notice] 1#1: start worker process 27
+2022/07/27 01:02:15 [notice] 1#1: start worker process 28
+2022/07/27 01:02:15 [notice] 1#1: start worker process 29
+2022/07/27 01:02:15 [notice] 1#1: start worker process 30
+2022/07/27 01:02:15 [notice] 1#1: start worker process 31
+2022/07/27 01:02:15 [notice] 1#1: start worker process 32
+2022/07/27 01:02:15 [notice] 1#1: start worker process 33
+2022/07/27 01:02:15 [notice] 1#1: start worker process 34
+2022/07/27 01:02:15 [notice] 1#1: start worker process 35
+2022/07/27 01:02:15 [notice] 1#1: start worker process 36
+2022/07/27 01:02:15 [notice] 1#1: start worker process 37
+2022/07/27 01:02:15 [notice] 1#1: start worker process 38
+2022/07/27 01:02:15 [notice] 1#1: start worker process 39
+2022/07/27 01:02:15 [notice] 1#1: start worker process 40
+2022/07/27 01:02:15 [notice] 1#1: start worker process 41
+2022/07/27 01:02:15 [notice] 1#1: start worker process 42
+2022/07/27 01:02:15 [notice] 1#1: start worker process 43
+2022/07/27 01:02:15 [notice] 1#1: start worker process 44
+2022/07/27 01:02:15 [notice] 1#1: start worker process 45
+2022/07/27 01:02:15 [notice] 1#1: start worker process 46
+2022/07/27 01:02:15 [notice] 1#1: start worker process 47
+2022/07/27 01:02:15 [notice] 1#1: start worker process 48
+2022/07/27 01:02:15 [notice] 1#1: start worker process 49
+2022/07/27 01:02:15 [notice] 1#1: start worker process 50
+2022/07/27 01:02:15 [notice] 1#1: start worker process 51
+2022/07/27 01:02:15 [notice] 1#1: start worker process 52
+2022/07/27 01:02:15 [notice] 1#1: start worker process 53
+2022/07/27 01:02:15 [notice] 1#1: start worker process 54
+2022/07/27 01:02:15 [notice] 1#1: start worker process 55
+2022/07/27 01:02:15 [notice] 1#1: start worker process 56
+2022/07/27 01:02:15 [notice] 1#1: start worker process 57
+2022/07/27 01:02:15 [notice] 1#1: start worker process 58
+2022/07/27 01:02:15 [notice] 1#1: start worker process 59
+2022/07/27 01:02:15 [notice] 1#1: start worker process 60
+2022/07/27 01:02:15 [notice] 1#1: start worker process 61
+2022/07/27 01:02:15 [notice] 1#1: start worker process 62
+2022/07/27 01:02:15 [notice] 1#1: start worker process 63
+2022/07/27 01:02:15 [notice] 1#1: start worker process 64
+2022/07/27 01:02:15 [notice] 1#1: start worker process 65
+2022/07/27 01:02:15 [notice] 1#1: start worker process 66
+2022/07/27 01:02:15 [notice] 1#1: start worker process 67
+2022/07/27 01:02:15 [notice] 1#1: start worker process 68
+2022/07/27 01:02:15 [notice] 1#1: start worker process 69
+2022/07/27 01:02:15 [notice] 1#1: start worker process 70
+2022/07/27 01:02:15 [notice] 1#1: start worker process 71
+2022/07/27 01:02:15 [notice] 1#1: start worker process 72
+2022/07/27 01:02:15 [notice] 1#1: start worker process 73
+2022/07/27 01:02:15 [notice] 1#1: start worker process 74
+2022/07/27 01:02:15 [notice] 1#1: start worker process 75
+2022/07/27 01:02:15 [notice] 1#1: start worker process 76
+2022/07/27 01:02:15 [notice] 1#1: start worker process 77
+2022/07/27 01:02:15 [notice] 1#1: start worker process 78
+2022/07/27 01:02:15 [notice] 1#1: start worker process 79
+2022/07/27 01:02:15 [notice] 1#1: start worker process 80
+2022/07/27 01:02:15 [notice] 1#1: start worker process 81
+2022/07/27 01:02:15 [notice] 1#1: start worker process 82
+2022/07/27 01:02:15 [notice] 1#1: start worker process 83
+2022/07/27 01:02:15 [notice] 1#1: start worker process 84
+2022/07/27 01:02:15 [notice] 1#1: start worker process 85
+2022/07/27 01:02:15 [notice] 1#1: start worker process 86
+2022/07/27 01:02:15 [notice] 1#1: start worker process 87
+2022/07/27 01:02:15 [notice] 1#1: start worker process 88
+2022/07/27 01:02:15 [notice] 1#1: start worker process 89
+2022/07/27 01:02:15 [notice] 1#1: start worker process 90
+2022/07/27 01:02:15 [notice] 1#1: start worker process 91
+2022/07/27 01:02:15 [notice] 1#1: start worker process 92
+2022/07/27 01:02:15 [notice] 1#1: start worker process 93
+2022/07/27 01:02:15 [notice] 1#1: start worker process 94
+2022/07/27 01:02:15 [notice] 1#1: start worker process 95
+2022/07/27 01:02:15 [notice] 1#1: start worker process 96
+2022/07/27 01:02:15 [notice] 1#1: start worker process 97
+2022/07/27 01:02:15 [notice] 1#1: start worker process 98
+2022/07/27 01:02:15 [notice] 1#1: start worker process 99
+2022/07/27 01:02:15 [notice] 1#1: start worker process 100
+2022/07/27 01:02:15 [notice] 1#1: start worker process 101
+2022/07/27 01:02:15 [notice] 1#1: start worker process 102
+2022/07/27 01:02:15 [notice] 1#1: start worker process 103
+2022/07/27 01:02:15 [notice] 1#1: start worker process 104
+2022/07/27 01:02:15 [info] 11#11: *1 client closed connection while waiting for request, client: 10.10.10.12, server: 0.0.0.0:80
+2022/07/27 01:02:15 [notice] 1#1: start worker process 105
+2022/07/27 01:02:15 [notice] 1#1: start worker process 106
+2022/07/27 01:02:30 [info] 12#12: *2 client closed connection while waiting for request, client: 10.10.10.12, server: 0.0.0.0:80
+10.10.10.6 - - [27/Jul/2022:01:02:33 +0000] "GET / HTTP/1.1" 200 6082 "https://nginx-production-66da.up.railway.app/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:03:00 +0000] "GET /posts/deployed/ HTTP/1.1" 200 6913 "https://nginx-production-66da.up.railway.app/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:03:00 +0000] "GET /assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js HTTP/1.1" 200 101714 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:00 [error] 13#13: *4 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:03:00 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:00 [info] 13#13: *4 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:03:00 [error] 15#15: *5 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:03:00 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:01 [error] 15#15: *5 open() "/app/posts/deployed/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:03:01 +0000] "GET /posts/deployed/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:01 [info] 15#15: *5 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:03:01 [error] 16#16: *6 open() "/app/posts/deployed/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:03:01 +0000] "GET /posts/deployed/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:01 [info] 16#16: *6 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:03:01 [error] 17#17: *7 open() "/app/posts/deployed/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:03:01 +0000] "GET /posts/deployed/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:01 [error] 17#17: *7 open() "/app/posts/deployed/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:03:01 +0000] "GET /posts/deployed/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:03:05 +0000] "GET /links/ HTTP/1.1" 200 5356 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:06 [error] 17#17: *7 open() "/app/links/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /links/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/links/"
+10.10.10.4 - - [27/Jul/2022:01:03:06 +0000] "GET /links/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:06 [info] 17#17: *7 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:03:06 [error] 18#18: *8 open() "/app/links/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /links/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/links/"
+10.10.10.4 - - [27/Jul/2022:01:03:06 +0000] "GET /links/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:03:37 +0000] "GET /about/ HTTP/1.1" 200 4254 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:03:38 +0000] "GET /assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:38 [error] 18#18: *8 open() "/app/about/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /about/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.4 - - [27/Jul/2022:01:03:38 +0000] "GET /about/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:38 [info] 18#18: *8 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:03:38 [error] 19#19: *9 open() "/app/about/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /about/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.4 - - [27/Jul/2022:01:03:38 +0000] "GET /about/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:39 [error] 19#19: *9 open() "/app/about/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /about/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.4 - - [27/Jul/2022:01:03:39 +0000] "GET /about/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:39 [info] 19#19: *9 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:03:39 [error] 20#20: *10 open() "/app/about/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /about/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.4 - - [27/Jul/2022:01:03:39 +0000] "GET /about/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:39 [info] 20#20: *10 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:03:39 [error] 21#21: *11 open() "/app/about/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /about/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.4 - - [27/Jul/2022:01:03:39 +0000] "GET /about/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:39 [error] 21#21: *11 open() "/app/about/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /about/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.4 - - [27/Jul/2022:01:03:39 +0000] "GET /about/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:03:54 +0000] "GET /categories/ HTTP/1.1" 200 3488 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:56 [error] 22#22: *12 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.6 - - [27/Jul/2022:01:03:56 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:03:56 [info] 22#22: *12 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:03:56 [error] 23#23: *13 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.6 - - [27/Jul/2022:01:03:56 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:04:04 +0000] "GET /categories/web-development-window-sill/ HTTP/1.1" 200 3908 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:05 [error] 24#24: *14 open() "/app/categories/web-development-window-sill/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/web-development-window-sill/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/web-development-window-sill/"
+10.10.10.4 - - [27/Jul/2022:01:04:05 +0000] "GET /categories/web-development-window-sill/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/web-development-window-sill/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:05 [info] 24#24: *14 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:05 [error] 25#25: *15 open() "/app/categories/web-development-window-sill/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/web-development-window-sill/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/web-development-window-sill/"
+10.10.10.4 - - [27/Jul/2022:01:04:05 +0000] "GET /categories/web-development-window-sill/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/web-development-window-sill/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:05 [info] 25#25: *15 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:05 [error] 26#26: *16 open() "/app/categories/web-development-window-sill/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/web-development-window-sill/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/web-development-window-sill/"
+10.10.10.4 - - [27/Jul/2022:01:04:05 +0000] "GET /categories/web-development-window-sill/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/web-development-window-sill/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:05 [info] 26#26: *16 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:05 [error] 27#27: *17 open() "/app/categories/web-development-window-sill/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/web-development-window-sill/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/web-development-window-sill/"
+10.10.10.4 - - [27/Jul/2022:01:04:05 +0000] "GET /categories/web-development-window-sill/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/web-development-window-sill/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:05 [error] 27#27: *17 open() "/app/categories/web-development-window-sill/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/web-development-window-sill/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/web-development-window-sill/"
+10.10.10.4 - - [27/Jul/2022:01:04:05 +0000] "GET /categories/web-development-window-sill/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/web-development-window-sill/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:05 [error] 27#27: *17 open() "/app/categories/web-development-window-sill/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/web-development-window-sill/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/web-development-window-sill/"
+10.10.10.4 - - [27/Jul/2022:01:04:05 +0000] "GET /categories/web-development-window-sill/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/web-development-window-sill/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:06 +0000] "GET /posts/deployed/ HTTP/1.1" 200 6913 "https://nginx-production-66da.up.railway.app/categories/web-development-window-sill/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:07 +0000] "GET /assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:07 [error] 27#27: *17 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:04:07 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:07 [info] 27#27: *17 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:07 [error] 28#28: *18 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:04:07 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:09 +0000] "GET /tags/ HTTP/1.1" 200 3531 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:10 [error] 28#28: *18 open() "/app/tags/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.4 - - [27/Jul/2022:01:04:10 +0000] "GET /tags/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:10 [info] 28#28: *18 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:10 [error] 29#29: *19 open() "/app/tags/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.4 - - [27/Jul/2022:01:04:10 +0000] "GET /tags/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:10 [error] 29#29: *19 open() "/app/tags/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.4 - - [27/Jul/2022:01:04:10 +0000] "GET /tags/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:10 [info] 29#29: *19 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:10 [error] 30#30: *20 open() "/app/tags/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.4 - - [27/Jul/2022:01:04:10 +0000] "GET /tags/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:10 [info] 30#30: *20 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:10 [error] 31#31: *21 open() "/app/tags/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.4 - - [27/Jul/2022:01:04:10 +0000] "GET /tags/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:10 [error] 31#31: *21 open() "/app/tags/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.4 - - [27/Jul/2022:01:04:10 +0000] "GET /tags/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:11 +0000] "GET /tags/hugo/ HTTP/1.1" 200 3874 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:12 [error] 31#31: *21 open() "/app/tags/hugo/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/hugo/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/hugo/"
+10.10.10.4 - - [27/Jul/2022:01:04:12 +0000] "GET /tags/hugo/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/hugo/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:12 [info] 31#31: *21 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:12 [error] 32#32: *22 open() "/app/tags/hugo/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/hugo/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/hugo/"
+10.10.10.4 - - [27/Jul/2022:01:04:12 +0000] "GET /tags/hugo/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/hugo/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:12 [info] 32#32: *22 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:12 [error] 33#33: *23 open() "/app/tags/hugo/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/hugo/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/hugo/"
+10.10.10.4 - - [27/Jul/2022:01:04:12 +0000] "GET /tags/hugo/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/hugo/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:12 [info] 33#33: *23 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:12 [error] 34#34: *24 open() "/app/tags/hugo/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/hugo/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/hugo/"
+10.10.10.4 - - [27/Jul/2022:01:04:12 +0000] "GET /tags/hugo/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/hugo/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:12 [error] 34#34: *24 open() "/app/tags/hugo/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/hugo/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/hugo/"
+10.10.10.4 - - [27/Jul/2022:01:04:12 +0000] "GET /tags/hugo/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/hugo/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:12 [error] 34#34: *24 open() "/app/tags/hugo/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/hugo/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/hugo/"
+10.10.10.4 - - [27/Jul/2022:01:04:12 +0000] "GET /tags/hugo/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/hugo/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:14 [error] 35#35: *25 open() "/app/tags/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.4 - - [27/Jul/2022:01:04:14 +0000] "GET /tags/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:14 [info] 35#35: *25 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:14 [error] 34#34: *24 open() "/app/tags/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.4 - - [27/Jul/2022:01:04:14 +0000] "GET /tags/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:19 +0000] "GET /tags/deployment/ HTTP/1.1" 200 3875 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:20 [error] 34#34: *24 open() "/app/tags/deployment/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/deployment/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/deployment/"
+10.10.10.4 - - [27/Jul/2022:01:04:20 +0000] "GET /tags/deployment/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/deployment/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:20 [info] 34#34: *24 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:20 [error] 36#36: *27 open() "/app/tags/deployment/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/deployment/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/deployment/"
+10.10.10.4 - - [27/Jul/2022:01:04:20 +0000] "GET /tags/deployment/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/deployment/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:20 [error] 36#36: *26 open() "/app/tags/deployment/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/deployment/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/deployment/"
+10.10.10.4 - - [27/Jul/2022:01:04:20 +0000] "GET /tags/deployment/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/deployment/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:20 [info] 36#36: *27 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:20 [info] 36#36: *26 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:20 [error] 37#37: *28 open() "/app/tags/deployment/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/deployment/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/deployment/"
+10.10.10.4 - - [27/Jul/2022:01:04:20 +0000] "GET /tags/deployment/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/deployment/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:20 [error] 37#37: *28 open() "/app/tags/deployment/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/deployment/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/deployment/"
+10.10.10.4 - - [27/Jul/2022:01:04:20 +0000] "GET /tags/deployment/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/deployment/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:20 [error] 37#37: *28 open() "/app/tags/deployment/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/deployment/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/deployment/"
+10.10.10.4 - - [27/Jul/2022:01:04:20 +0000] "GET /tags/deployment/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/deployment/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:21 +0000] "GET /posts/deployed/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/tags/deployment/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:22 +0000] "GET /assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:22 [error] 37#37: *28 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:04:22 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:22 [info] 37#37: *28 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:22 [error] 38#38: *29 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:04:22 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:23 +0000] "GET /assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:23 [error] 38#38: *29 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:04:23 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:23 [info] 38#38: *29 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:23 [error] 39#39: *30 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:04:23 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:27 [error] 39#39: *30 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:04:27 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:27 [info] 39#39: *30 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:27 [error] 40#40: *31 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.4 - - [27/Jul/2022:01:04:27 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:31 +0000] "GET /categories/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:32 [error] 40#40: *31 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:04:32 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:32 [info] 40#40: *31 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:32 [error] 41#41: *32 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:04:32 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:33 [error] 41#41: *32 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:04:33 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:33 [info] 41#41: *32 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:33 [error] 42#42: *33 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:04:33 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:37 +0000] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:45 [error] 42#42: *33 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:04:45 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:45 [info] 42#42: *33 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:45 [error] 43#43: *34 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:04:45 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:47 +0000] "GET / HTTP/1.1" 200 6082 "-" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:47 [error] 43#43: *34 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:04:47 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:47 [info] 43#43: *34 client 10.10.10.4 closed keepalive connection
+10.10.10.4 - - [27/Jul/2022:01:04:47 +0000] "GET /assets/css/stylesheet.87f13e5a6bb06e162f3e396c58e539209862c186f1033dd6602a6ee136b456fe.css HTTP/1.1" 200 15226 "https://nginx-production-66da.up.railway.app/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:47 [error] 45#45: *36 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:04:47 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:47 +0000] "GET /img/nettcc.png HTTP/1.1" 200 11225 "https://nginx-production-66da.up.railway.app/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:49 +0000] "GET /categories/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:49 +0000] "GET /img/apu_keyboard.jpg HTTP/1.1" 200 64965 "https://nginx-production-66da.up.railway.app/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:55 +0000] "GET /links/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:56 +0000] "GET /assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:56 [error] 45#45: *36 open() "/app/links/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /links/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/links/"
+10.10.10.4 - - [27/Jul/2022:01:04:56 +0000] "GET /links/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:56 [info] 45#45: *36 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:04:56 [error] 46#46: *37 open() "/app/links/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /links/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/links/"
+10.10.10.4 - - [27/Jul/2022:01:04:56 +0000] "GET /links/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:04:57 +0000] "GET /about/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:59 [error] 47#47: *38 open() "/app/about/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /about/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.6 - - [27/Jul/2022:01:04:59 +0000] "GET /about/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:04:59 [info] 47#47: *38 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:04:59 [error] 48#48: *39 open() "/app/about/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /about/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.6 - - [27/Jul/2022:01:04:59 +0000] "GET /about/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:05:01 +0000] "GET /categories/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:02 [error] 48#48: *39 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.6 - - [27/Jul/2022:01:05:02 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:02 [info] 48#48: *39 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:02 [error] 49#49: *40 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.6 - - [27/Jul/2022:01:05:02 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:05:03 +0000] "GET /categories/public-service-anoucement-porch/ HTTP/1.1" 200 3919 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:04 [error] 49#49: *40 open() "/app/categories/public-service-anoucement-porch/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/public-service-anoucement-porch/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/"
+10.10.10.6 - - [27/Jul/2022:01:05:04 +0000] "GET /categories/public-service-anoucement-porch/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:04 [info] 49#49: *40 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:04 [error] 50#50: *41 open() "/app/categories/public-service-anoucement-porch/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/public-service-anoucement-porch/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/"
+10.10.10.6 - - [27/Jul/2022:01:05:04 +0000] "GET /categories/public-service-anoucement-porch/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:04 [error] 50#50: *42 open() "/app/categories/public-service-anoucement-porch/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/public-service-anoucement-porch/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/"
+10.10.10.6 - - [27/Jul/2022:01:05:04 +0000] "GET /categories/public-service-anoucement-porch/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:04 [info] 50#50: *41 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:04 [info] 50#50: *42 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:04 [error] 51#51: *43 open() "/app/categories/public-service-anoucement-porch/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/public-service-anoucement-porch/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/"
+2022/07/27 01:05:04 [error] 52#52: *44 open() "/app/categories/public-service-anoucement-porch/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/public-service-anoucement-porch/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/"
+10.10.10.6 - - [27/Jul/2022:01:05:04 +0000] "GET /categories/public-service-anoucement-porch/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:05:04 +0000] "GET /categories/public-service-anoucement-porch/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:04 [error] 52#52: *44 open() "/app/categories/public-service-anoucement-porch/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/public-service-anoucement-porch/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/"
+10.10.10.6 - - [27/Jul/2022:01:05:04 +0000] "GET /categories/public-service-anoucement-porch/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:05:05 +0000] "GET /posts/working/ HTTP/1.1" 200 4984 "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:05 [error] 52#52: *44 open() "/app/posts/working/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/working/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/working/"
+10.10.10.6 - - [27/Jul/2022:01:05:05 +0000] "GET /posts/working/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/working/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:05 [info] 52#52: *44 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:05 [error] 51#51: *43 open() "/app/posts/working/img/apu_keyboard.jpg" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/working/img/apu_keyboard.jpg HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/working/"
+10.10.10.6 - - [27/Jul/2022:01:05:05 +0000] "GET /posts/working/img/apu_keyboard.jpg HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/working/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:05 [info] 51#51: *43 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:05 [error] 53#53: *45 open() "/app/posts/working/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/working/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/working/"
+10.10.10.6 - - [27/Jul/2022:01:05:05 +0000] "GET /posts/working/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/working/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:05 [error] 53#53: *45 open() "/app/posts/working/img/apu_keyboard.jpg" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/working/img/apu_keyboard.jpg HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/working/"
+10.10.10.6 - - [27/Jul/2022:01:05:05 +0000] "GET /posts/working/img/apu_keyboard.jpg HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/working/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:06 [error] 53#53: *45 open() "/app/posts/working/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/working/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/working/"
+10.10.10.6 - - [27/Jul/2022:01:05:06 +0000] "GET /posts/working/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/working/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:06 [info] 53#53: *45 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:06 [error] 54#54: *46 open() "/app/posts/working/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/working/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/working/"
+10.10.10.6 - - [27/Jul/2022:01:05:06 +0000] "GET /posts/working/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/working/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:06 [info] 54#54: *46 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:06 [error] 55#55: *47 open() "/app/posts/working/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/working/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/working/"
+10.10.10.6 - - [27/Jul/2022:01:05:06 +0000] "GET /posts/working/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/working/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:06 [error] 55#55: *47 open() "/app/posts/working/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/working/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/working/"
+10.10.10.6 - - [27/Jul/2022:01:05:06 +0000] "GET /posts/working/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/working/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:05:11 +0000] "GET /posts/working/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/categories/public-service-anoucement-porch/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:11 [error] 55#55: *47 open() "/app/posts/working/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/working/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/working/"
+10.10.10.6 - - [27/Jul/2022:01:05:11 +0000] "GET /posts/working/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/working/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:11 [info] 55#55: *47 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:11 [error] 56#56: *48 open() "/app/posts/working/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/working/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/working/"
+10.10.10.6 - - [27/Jul/2022:01:05:11 +0000] "GET /posts/working/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/working/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:11 [error] 56#56: *48 open() "/app/posts/working/img/apu_keyboard.jpg" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/working/img/apu_keyboard.jpg HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/working/"
+10.10.10.6 - - [27/Jul/2022:01:05:11 +0000] "GET /posts/working/img/apu_keyboard.jpg HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/working/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:11 [info] 56#56: *48 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:12 [error] 57#57: *49 open() "/app/posts/working/img/apu_keyboard.jpg" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/working/img/apu_keyboard.jpg HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/working/"
+10.10.10.6 - - [27/Jul/2022:01:05:12 +0000] "GET /posts/working/img/apu_keyboard.jpg HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/working/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:05:18 +0000] "GET /tags/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/posts/working/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:19 [error] 57#57: *49 open() "/app/tags/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /tags/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.6 - - [27/Jul/2022:01:05:19 +0000] "GET /tags/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:19 [info] 57#57: *49 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:19 [error] 58#58: *50 open() "/app/tags/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /tags/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.6 - - [27/Jul/2022:01:05:19 +0000] "GET /tags/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:05:21 +0000] "GET /tags/papermod/ HTTP/1.1" 200 3875 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:21 [error] 58#58: *50 open() "/app/tags/papermod/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /tags/papermod/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/papermod/"
+10.10.10.6 - - [27/Jul/2022:01:05:21 +0000] "GET /tags/papermod/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/papermod/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:21 [info] 58#58: *50 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:21 [error] 59#59: *51 open() "/app/tags/papermod/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /tags/papermod/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/papermod/"
+10.10.10.6 - - [27/Jul/2022:01:05:21 +0000] "GET /tags/papermod/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/papermod/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:21 [error] 59#59: *51 open() "/app/tags/papermod/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /tags/papermod/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/papermod/"
+10.10.10.6 - - [27/Jul/2022:01:05:21 +0000] "GET /tags/papermod/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/papermod/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:21 [info] 59#59: *51 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:21 [error] 60#60: *52 open() "/app/tags/papermod/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /tags/papermod/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/papermod/"
+10.10.10.6 - - [27/Jul/2022:01:05:21 +0000] "GET /tags/papermod/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/papermod/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:21 [info] 60#60: *52 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:21 [error] 61#61: *53 open() "/app/tags/papermod/apple-touch-icon.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /tags/papermod/apple-touch-icon.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/papermod/"
+10.10.10.6 - - [27/Jul/2022:01:05:21 +0000] "GET /tags/papermod/apple-touch-icon.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/papermod/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:21 [error] 61#61: *53 open() "/app/tags/papermod/favicon-16x16.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /tags/papermod/favicon-16x16.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/papermod/"
+10.10.10.6 - - [27/Jul/2022:01:05:21 +0000] "GET /tags/papermod/favicon-16x16.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/papermod/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:05:22 +0000] "GET /posts/deployed/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/tags/papermod/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:05:23 +0000] "GET /assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:23 [error] 62#62: *54 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.6 - - [27/Jul/2022:01:05:23 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:23 [info] 62#62: *54 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:23 [error] 61#61: *53 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.6 - - [27/Jul/2022:01:05:23 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:30 [error] 61#61: *53 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.6 - - [27/Jul/2022:01:05:30 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:30 [info] 61#61: *53 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:30 [error] 63#63: *55 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.6 - - [27/Jul/2022:01:05:30 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:05:31 +0000] "GET /posts/deployed/ HTTP/1.1" 200 6913 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:32 [error] 63#63: *55 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.6 - - [27/Jul/2022:01:05:32 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:32 [info] 63#63: *55 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:32 [error] 64#64: *56 open() "/app/posts/deployed/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /posts/deployed/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/posts/deployed/"
+10.10.10.6 - - [27/Jul/2022:01:05:32 +0000] "GET /posts/deployed/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:05:32 +0000] "GET /categories/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/posts/deployed/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:33 [error] 64#64: *56 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.6 - - [27/Jul/2022:01:05:33 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:33 [info] 64#64: *56 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:05:33 [error] 65#65: *57 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.6 - - [27/Jul/2022:01:05:33 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:05:58 +0000] "GET /categories/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:59 [error] 66#66: *58 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:05:59 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:05:59 [info] 66#66: *58 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:05:59 [error] 67#67: *59 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:05:59 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:06:02 +0000] "GET /tags/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:03 [error] 67#67: *59 open() "/app/tags/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.4 - - [27/Jul/2022:01:06:03 +0000] "GET /tags/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:03 [info] 67#67: *59 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:06:03 [error] 68#68: *60 open() "/app/tags/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.4 - - [27/Jul/2022:01:06:03 +0000] "GET /tags/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:06:04 +0000] "GET /about/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:06:04 +0000] "GET /assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:05 [error] 68#68: *60 open() "/app/about/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /about/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.4 - - [27/Jul/2022:01:06:05 +0000] "GET /about/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:05 [info] 68#68: *60 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:06:05 [error] 69#69: *61 open() "/app/about/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /about/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.4 - - [27/Jul/2022:01:06:05 +0000] "GET /about/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:06:06 +0000] "GET /links/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:06 [error] 69#69: *61 open() "/app/links/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /links/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/links/"
+10.10.10.4 - - [27/Jul/2022:01:06:06 +0000] "GET /links/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:06 [info] 69#69: *61 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:06:06 [error] 70#70: *62 open() "/app/links/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /links/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/links/"
+10.10.10.4 - - [27/Jul/2022:01:06:06 +0000] "GET /links/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:08 [error] 70#70: *62 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:06:08 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:08 [info] 70#70: *62 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:06:08 [error] 71#71: *63 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:06:08 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:06:27 +0000] "GET /categories/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:27 [error] 71#71: *63 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:06:27 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:27 [info] 71#71: *63 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:06:27 [error] 72#72: *64 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:06:27 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:30 [error] 72#72: *64 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:06:30 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:30 [info] 72#72: *64 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:06:30 [error] 73#73: *65 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.4 - - [27/Jul/2022:01:06:30 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:06:32 +0000] "GET /tags/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:33 [error] 73#73: *65 open() "/app/tags/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.4 - - [27/Jul/2022:01:06:33 +0000] "GET /tags/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:33 [info] 73#73: *65 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:06:33 [error] 74#74: *66 open() "/app/tags/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /tags/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.4 - - [27/Jul/2022:01:06:33 +0000] "GET /tags/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:06:34 +0000] "GET /about/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:06:35 +0000] "GET /assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:35 [error] 74#74: *66 open() "/app/about/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /about/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.4 - - [27/Jul/2022:01:06:35 +0000] "GET /about/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:35 [info] 74#74: *66 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:06:35 [error] 75#75: *67 open() "/app/about/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /about/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.4 - - [27/Jul/2022:01:06:35 +0000] "GET /about/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.4 - - [27/Jul/2022:01:06:36 +0000] "GET /links/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:37 [error] 75#75: *67 open() "/app/links/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /links/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/links/"
+10.10.10.4 - - [27/Jul/2022:01:06:37 +0000] "GET /links/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:06:37 [info] 75#75: *67 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:06:37 [error] 76#76: *68 open() "/app/links/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /links/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/links/"
+10.10.10.4 - - [27/Jul/2022:01:06:37 +0000] "GET /links/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:07:01 [error] 76#76: *68 open() "/app/links/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /links/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/links/"
+10.10.10.4 - - [27/Jul/2022:01:07:01 +0000] "GET /links/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:07:01 [info] 76#76: *68 client 10.10.10.4 closed keepalive connection
+2022/07/27 01:07:01 [error] 77#77: *69 open() "/app/links/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.4, server: , request: "GET /links/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/links/"
+10.10.10.4 - - [27/Jul/2022:01:07:01 +0000] "GET /links/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:07:03 +0000] "GET /categories/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/links/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:07:04 [error] 78#78: *70 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.6 - - [27/Jul/2022:01:07:04 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:07:04 [info] 78#78: *70 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:07:04 [error] 79#79: *71 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.6 - - [27/Jul/2022:01:07:04 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:07:15 +0000] "GET /about/ HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:07:16 +0000] "GET /assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:07:16 [error] 79#79: *71 open() "/app/about/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /about/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.6 - - [27/Jul/2022:01:07:16 +0000] "GET /about/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:07:16 [info] 79#79: *71 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:07:16 [error] 80#80: *72 open() "/app/about/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /about/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/about/"
+10.10.10.6 - - [27/Jul/2022:01:07:16 +0000] "GET /about/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:07:16 +0000] "GET /assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js HTTP/1.1" 304 0 "https://nginx-production-66da.up.railway.app/about/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:07:17 [error] 80#80: *72 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.6 - - [27/Jul/2022:01:07:17 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:07:17 [info] 80#80: *72 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:07:17 [error] 81#81: *73 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.6 - - [27/Jul/2022:01:07:17 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:07:20 [error] 81#81: *73 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.6 - - [27/Jul/2022:01:07:20 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:07:20 [info] 81#81: *73 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:07:20 [error] 82#82: *74 open() "/app/categories/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /categories/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/categories/"
+10.10.10.6 - - [27/Jul/2022:01:07:20 +0000] "GET /categories/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+10.10.10.6 - - [27/Jul/2022:01:07:30 +0000] "GET /tags/ HTTP/1.1" 200 3531 "https://nginx-production-66da.up.railway.app/categories/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:07:30 [info] 83#83: *75 client closed connection while waiting for request, client: 10.10.10.12, server: 0.0.0.0:80
+2022/07/27 01:07:31 [error] 82#82: *74 open() "/app/tags/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /tags/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.6 - - [27/Jul/2022:01:07:31 +0000] "GET /tags/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:07:31 [info] 82#82: *74 client 10.10.10.6 closed keepalive connection
+2022/07/27 01:07:31 [error] 84#84: *76 open() "/app/tags/img/nettcc.png" failed (2: No such file or directory), client: 10.10.10.6, server: , request: "GET /tags/img/nettcc.png HTTP/1.1", host: "nginx-production-66da.up.railway.app", referrer: "https://nginx-production-66da.up.railway.app/tags/"
+10.10.10.6 - - [27/Jul/2022:01:07:31 +0000] "GET /tags/img/nettcc.png HTTP/1.1" 404 128 "https://nginx-production-66da.up.railway.app/tags/" "Mozilla/5.0 (X11; Linux aarch64; rv:102.0) Gecko/20100101 Firefox/102.0"
+2022/07/27 01:12:30 [info] 85#85: *77 client closed connection while waiting for request, client: 10.10.10.12, server: 0.0.0.0:80
+
