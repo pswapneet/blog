@@ -6,7 +6,16 @@
     <description>Recent content in I&#39;m Working On It! on PSWAPNEET.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jul 2022 21:29:43 +0200</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/tags/im-working-on-it/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 23:24:43 +0200</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/tags/im-working-on-it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redeployed</title>
+      <link>https://nginx-production-66da.up.railway.app/posts/redeployed/</link>
+      <pubDate>Mon, 22 Aug 2022 23:24:43 +0200</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/posts/redeployed/</guid>
+      <description>The blog is online again I was too lazy to do it quick The summer is almost over and I have to start being productive again. The blog was offline because of a change in my Railway.app account. It is now online again and I will update it at least twice a month to update about things that I am working on. I promise not to be too lazy. First order of business should be to update the Links and the About page, and adding some images here and there.</description>
+    </item>
+    
     <item>
       <title>I&#39;m Working On It!</title>
       <link>https://nginx-production-66da.up.railway.app/posts/working/</link>
