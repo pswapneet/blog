@@ -6,7 +6,17 @@
     <description>Recent content in I&#39;m Working On It! on PSWAPNEET.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Aug 2022 23:24:43 +0200</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/tags/im-working-on-it/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 21:27:01 +0100</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/tags/im-working-on-it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Year, New Meme!</title>
+      <link>https://nginx-production-66da.up.railway.app/posts/newyear/</link>
+      <pubDate>Sat, 31 Dec 2022 21:27:01 +0100</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/posts/newyear/</guid>
+      <description>Hurry, need to make a post before 2022 is over! I know I said I was going to maintain this blog. I did not do that. Ok so thankfully this year is almost over since it has been quite bad for many reasons.
+I have not been doing any web dev at all during the fall or winter. In fact I had to google how to make a post since I forgot ($ hugo new posts/nameofpost.</description>
+    </item>
+    
     <item>
       <title>Redeployed</title>
       <link>https://nginx-production-66da.up.railway.app/posts/redeployed/</link>

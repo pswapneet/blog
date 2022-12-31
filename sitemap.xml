@@ -2,31 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/2023/</loc>
+    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
+  </url><url>
     <loc>https://nginx-production-66da.up.railway.app/categories/</loc>
-    <lastmod>2022-08-22T23:24:43+02:00</lastmod>
+    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
   </url><url>
     <loc>https://nginx-production-66da.up.railway.app/tags/im-working-on-it/</loc>
-    <lastmod>2022-08-22T23:24:43+02:00</lastmod>
+    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/posts/newyear/</loc>
+    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
   </url><url>
     <loc>https://nginx-production-66da.up.railway.app/posts/</loc>
-    <lastmod>2022-08-22T23:24:43+02:00</lastmod>
-  </url><url>
-    <loc>https://nginx-production-66da.up.railway.app/tags/psa/</loc>
-    <lastmod>2022-08-22T23:24:43+02:00</lastmod>
+    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
   </url><url>
     <loc>https://nginx-production-66da.up.railway.app/</loc>
-    <lastmod>2022-08-22T23:24:43+02:00</lastmod>
+    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
   </url><url>
     <loc>https://nginx-production-66da.up.railway.app/categories/public-service-announcement/</loc>
+    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/</loc>
+    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/theo/</loc>
+    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/youtube/</loc>
+    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/psa/</loc>
     <lastmod>2022-08-22T23:24:43+02:00</lastmod>
   </url><url>
     <loc>https://nginx-production-66da.up.railway.app/tags/railway.app/</loc>
     <lastmod>2022-08-22T23:24:43+02:00</lastmod>
   </url><url>
     <loc>https://nginx-production-66da.up.railway.app/posts/redeployed/</loc>
-    <lastmod>2022-08-22T23:24:43+02:00</lastmod>
-  </url><url>
-    <loc>https://nginx-production-66da.up.railway.app/tags/</loc>
     <lastmod>2022-08-22T23:24:43+02:00</lastmod>
   </url><url>
     <loc>https://nginx-production-66da.up.railway.app/tags/deployment/</loc>
