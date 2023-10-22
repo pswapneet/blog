@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cope on PSWAPNEET.com</title>
+    <link>https://nginx-production-66da.up.railway.app/tags/cope/</link>
+    <description>Recent content in Cope on PSWAPNEET.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Mar 2023 01:38:06 +0100</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/tags/cope/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Uncomfortable Wagie</title>
+      <link>https://nginx-production-66da.up.railway.app/posts/uncomfy_wagie/</link>
+      <pubDate>Mon, 20 Mar 2023 01:38:06 +0100</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/posts/uncomfy_wagie/</guid>
+      <description>Sunday, Funday I keep working on it. There has been a lot happening in the AI/LLM space this past week as you all know, and I intend to use this to escape manual labor as much as possible. I know that it is possible, but one step at a time, so I have been doing some automation using Python and planning on how to proceed. More on that in the coming week, for now, I must sleep to get ready for another Manic Monday.</description>
+    </item>
+    
+  </channel>
+</rss>

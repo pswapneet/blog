@@ -6,13 +6,58 @@
     <description>Recent content in Categories on PSWAPNEET.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2022 21:27:01 +0100</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Public Service Announcement</title>
       <link>https://nginx-production-66da.up.railway.app/categories/public-service-announcement/</link>
-      <pubDate>Sat, 31 Dec 2022 21:27:01 +0100</pubDate>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
       
       <guid>https://nginx-production-66da.up.railway.app/categories/public-service-announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automation</title>
+      <link>https://nginx-production-66da.up.railway.app/categories/automation/</link>
+      <pubDate>Thu, 23 Mar 2023 20:37:33 +0100</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/categories/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenAI</title>
+      <link>https://nginx-production-66da.up.railway.app/categories/openai/</link>
+      <pubDate>Thu, 23 Mar 2023 20:37:33 +0100</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/categories/openai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://nginx-production-66da.up.railway.app/categories/python/</link>
+      <pubDate>Thu, 23 Mar 2023 20:37:33 +0100</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wagie</title>
+      <link>https://nginx-production-66da.up.railway.app/categories/wagie/</link>
+      <pubDate>Mon, 20 Mar 2023 01:38:06 +0100</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/categories/wagie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YouTube</title>
+      <link>https://nginx-production-66da.up.railway.app/categories/youtube/</link>
+      <pubDate>Mon, 13 Mar 2023 18:28:06 +0100</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/categories/youtube/</guid>
       <description></description>
     </item>
     

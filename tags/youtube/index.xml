@@ -6,7 +6,16 @@
     <description>Recent content in YouTube on PSWAPNEET.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2022 21:27:01 +0100</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 18:28:06 +0100</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I am still a YouTube degen... But I made a video using ElevenLabs.io so it&#39;s cool!</title>
+      <link>https://nginx-production-66da.up.railway.app/posts/ytaddict/</link>
+      <pubDate>Mon, 13 Mar 2023 18:28:06 +0100</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/posts/ytaddict/</guid>
+      <description>2023 has been unusually productive so far! The fun work train just keeps on rollin&amp;rsquo; (David Lynch reference, is he still on YouTube?) with no signs of derailment. Railway references aside, I have not been deploying on railway.app so far this year (well, I tried to deploy Flask there, but couldn&amp;rsquo;t figure out how to get it to work), but rather on pythonanywhere.com. More on my dev projects later in the week, I want to start out the week with some good ol&amp;rsquo; fashion meme posting, or whatever you call it.</description>
+    </item>
+    
     <item>
       <title>New Year, New Meme!</title>
       <link>https://nginx-production-66da.up.railway.app/posts/newyear/</link>

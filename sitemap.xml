@@ -2,10 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nginx-production-66da.up.railway.app/tags/2023/</loc>
-    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
-  </url><url>
     <loc>https://nginx-production-66da.up.railway.app/categories/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/posts/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/categories/public-service-announcement/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/posts/2023-09-05-redployed-again/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/categories/automation/</loc>
+    <lastmod>2023-03-23T20:37:33+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/gradio/</loc>
+    <lastmod>2023-03-23T20:37:33+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/categories/openai/</loc>
+    <lastmod>2023-03-23T20:37:33+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/openai-api/</loc>
+    <lastmod>2023-03-23T20:37:33+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/pyautogui/</loc>
+    <lastmod>2023-03-23T20:37:33+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/python/</loc>
+    <lastmod>2023-03-23T20:37:33+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/categories/python/</loc>
+    <lastmod>2023-03-23T20:37:33+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/posts/speech2text/</loc>
+    <lastmod>2023-03-23T20:37:33+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/</loc>
+    <lastmod>2023-03-23T20:37:33+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/whisper-api/</loc>
+    <lastmod>2023-03-23T20:37:33+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/cope/</loc>
+    <lastmod>2023-03-20T01:38:06+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/manual-labor/</loc>
+    <lastmod>2023-03-20T01:38:06+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/posts/uncomfy_wagie/</loc>
+    <lastmod>2023-03-20T01:38:06+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/categories/wagie/</loc>
+    <lastmod>2023-03-20T01:38:06+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/ai/</loc>
+    <lastmod>2023-03-13T18:28:06+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/posts/ytaddict/</loc>
+    <lastmod>2023-03-13T18:28:06+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/youtube/</loc>
+    <lastmod>2023-03-13T18:28:06+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/categories/youtube/</loc>
+    <lastmod>2023-03-13T18:28:06+01:00</lastmod>
+  </url><url>
+    <loc>https://nginx-production-66da.up.railway.app/tags/2023/</loc>
     <lastmod>2022-12-31T21:27:01+01:00</lastmod>
   </url><url>
     <loc>https://nginx-production-66da.up.railway.app/tags/im-working-on-it/</loc>
@@ -14,22 +80,7 @@
     <loc>https://nginx-production-66da.up.railway.app/posts/newyear/</loc>
     <lastmod>2022-12-31T21:27:01+01:00</lastmod>
   </url><url>
-    <loc>https://nginx-production-66da.up.railway.app/posts/</loc>
-    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
-  </url><url>
-    <loc>https://nginx-production-66da.up.railway.app/</loc>
-    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
-  </url><url>
-    <loc>https://nginx-production-66da.up.railway.app/categories/public-service-announcement/</loc>
-    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
-  </url><url>
-    <loc>https://nginx-production-66da.up.railway.app/tags/</loc>
-    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
-  </url><url>
     <loc>https://nginx-production-66da.up.railway.app/tags/theo/</loc>
-    <lastmod>2022-12-31T21:27:01+01:00</lastmod>
-  </url><url>
-    <loc>https://nginx-production-66da.up.railway.app/tags/youtube/</loc>
     <lastmod>2022-12-31T21:27:01+01:00</lastmod>
   </url><url>
     <loc>https://nginx-production-66da.up.railway.app/tags/psa/</loc>
@@ -63,7 +114,5 @@
     <lastmod>2022-07-24T21:29:43+02:00</lastmod>
   </url><url>
     <loc>https://nginx-production-66da.up.railway.app/about/</loc>
-  </url><url>
-    <loc>https://nginx-production-66da.up.railway.app/links/</loc>
   </url>
 </urlset>

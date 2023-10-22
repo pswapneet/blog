@@ -6,7 +6,45 @@
     <description>Recent content in Posts on PSWAPNEET.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Dec 2022 21:27:01 +0100</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redployed (again)</title>
+      <link>https://nginx-production-66da.up.railway.app/posts/2023-09-05-redployed-again/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/posts/2023-09-05-redployed-again/</guid>
+      <description>The blog is redployed again. My Railway account changed. Planning some changes. Trying to make it less cringe. Layout is not the best still. If for whatever reason you want to contact me, send me an email: pswapneet@gmail.com. Do not contact me on Twitter or Discord, I am not active there at all. Might get back on Discord, but Twitter (X) I will probably not use at all.</description>
+    </item>
+    
+    <item>
+      <title>Python Speech to Text using OpenAI API, Gradio, and PyAutoGUI</title>
+      <link>https://nginx-production-66da.up.railway.app/posts/speech2text/</link>
+      <pubDate>Thu, 23 Mar 2023 20:37:33 +0100</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/posts/speech2text/</guid>
+      <description>Here are the steps to install the Speech to Text Python program:
+Make sure that you have Python3 and pip installed on your system.
+Visit https://platform.openai.com/account/api-keys and make an API Key if you do not have one. Note that you have to activate a payment method too because the API is not free, although it is reasonably priced (1hr of transcription will cost you $0.36 at the moment of writing this.</description>
+    </item>
+    
+    <item>
+      <title>The Uncomfortable Wagie</title>
+      <link>https://nginx-production-66da.up.railway.app/posts/uncomfy_wagie/</link>
+      <pubDate>Mon, 20 Mar 2023 01:38:06 +0100</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/posts/uncomfy_wagie/</guid>
+      <description>Sunday, Funday I keep working on it. There has been a lot happening in the AI/LLM space this past week as you all know, and I intend to use this to escape manual labor as much as possible. I know that it is possible, but one step at a time, so I have been doing some automation using Python and planning on how to proceed. More on that in the coming week, for now, I must sleep to get ready for another Manic Monday.</description>
+    </item>
+    
+    <item>
+      <title>I am still a YouTube degen... But I made a video using ElevenLabs.io so it&#39;s cool!</title>
+      <link>https://nginx-production-66da.up.railway.app/posts/ytaddict/</link>
+      <pubDate>Mon, 13 Mar 2023 18:28:06 +0100</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/posts/ytaddict/</guid>
+      <description>2023 has been unusually productive so far! The fun work train just keeps on rollin&amp;rsquo; (David Lynch reference, is he still on YouTube?) with no signs of derailment. Railway references aside, I have not been deploying on railway.app so far this year (well, I tried to deploy Flask there, but couldn&amp;rsquo;t figure out how to get it to work), but rather on pythonanywhere.com. More on my dev projects later in the week, I want to start out the week with some good ol&amp;rsquo; fashion meme posting, or whatever you call it.</description>
+    </item>
+    
     <item>
       <title>New Year, New Meme!</title>
       <link>https://nginx-production-66da.up.railway.app/posts/newyear/</link>
