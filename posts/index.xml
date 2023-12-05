@@ -6,7 +6,16 @@
     <description>Recent content in Posts on PSWAPNEET.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cringetopia</title>
+      <link>https://nginx-production-66da.up.railway.app/posts/2023-12-05-cringetopia/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/posts/2023-12-05-cringetopia/</guid>
+      <description>Cringelife has made anxiety and random cringing at snap flashbacks a reality. The goal is to be less cringe, or to at least not have the anxiety. The productivity is quite low still, I am making a website for someone and it is going OK. I do not know why I pay railway to host on them. It seems I could host this blog for free on Cloudflare Pages. Maybe I can start using Railway more, get my $5/month worth.</description>
+    </item>
+    
     <item>
       <title>Redployed (again)</title>
       <link>https://nginx-production-66da.up.railway.app/posts/2023-09-05-redployed-again/</link>
