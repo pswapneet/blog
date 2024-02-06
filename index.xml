@@ -6,7 +6,16 @@
     <description>Recent content on PSWAPNEET.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Feb 2024 18:47:44 +0100</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nintender</title>
+      <link>https://nginx-production-66da.up.railway.app/posts/2024-02-06_nintender/</link>
+      <pubDate>Tue, 06 Feb 2024 18:47:44 +0100</pubDate>
+      
+      <guid>https://nginx-production-66da.up.railway.app/posts/2024-02-06_nintender/</guid>
+      <description>I am posting from Nintendo Switch to my Twitter now.</description>
+    </item>
+    
     <item>
       <title>Cringetopia</title>
       <link>https://nginx-production-66da.up.railway.app/posts/2023-12-05-cringetopia/</link>
@@ -32,8 +41,8 @@
       
       <guid>https://nginx-production-66da.up.railway.app/posts/speech2text/</guid>
       <description>Here are the steps to install the Speech to Text Python program:
-Make sure that you have Python3 and pip installed on your system.
-Visit https://platform.openai.com/account/api-keys and make an API Key if you do not have one. Note that you have to activate a payment method too because the API is not free, although it is reasonably priced (1hr of transcription will cost you $0.36 at the moment of writing this.</description>
+  Make sure that you have Python3 and pip installed on your system.
+  Visit https://platform.openai.com/account/api-keys and make an API Key if you do not have one. Note that you have to activate a payment method too because the API is not free, although it is reasonably priced (1hr of transcription will cost you $0.36 at the moment of writing this.</description>
     </item>
     
     <item>
@@ -51,7 +60,7 @@ Visit https://platform.openai.com/account/api-keys and make an API Key if you do
       <pubDate>Mon, 13 Mar 2023 18:28:06 +0100</pubDate>
       
       <guid>https://nginx-production-66da.up.railway.app/posts/ytaddict/</guid>
-      <description>2023 has been unusually productive so far! The fun work train just keeps on rollin&amp;rsquo; (David Lynch reference, is he still on YouTube?) with no signs of derailment. Railway references aside, I have not been deploying on railway.app so far this year (well, I tried to deploy Flask there, but couldn&amp;rsquo;t figure out how to get it to work), but rather on pythonanywhere.com. More on my dev projects later in the week, I want to start out the week with some good ol&amp;rsquo; fashion meme posting, or whatever you call it.</description>
+      <description>2023 has been unusually productive so far! The fun work train just keeps on rollin&#39; (David Lynch reference, is he still on YouTube?) with no signs of derailment. Railway references aside, I have not been deploying on railway.app so far this year (well, I tried to deploy Flask there, but couldn&amp;rsquo;t figure out how to get it to work), but rather on pythonanywhere.com. More on my dev projects later in the week, I want to start out the week with some good ol&#39; fashion meme posting, or whatever you call it.</description>
     </item>
     
     <item>

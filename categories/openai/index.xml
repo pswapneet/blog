@@ -14,8 +14,8 @@
       
       <guid>https://nginx-production-66da.up.railway.app/posts/speech2text/</guid>
       <description>Here are the steps to install the Speech to Text Python program:
-Make sure that you have Python3 and pip installed on your system.
-Visit https://platform.openai.com/account/api-keys and make an API Key if you do not have one. Note that you have to activate a payment method too because the API is not free, although it is reasonably priced (1hr of transcription will cost you $0.36 at the moment of writing this.</description>
+  Make sure that you have Python3 and pip installed on your system.
+  Visit https://platform.openai.com/account/api-keys and make an API Key if you do not have one. Note that you have to activate a payment method too because the API is not free, although it is reasonably priced (1hr of transcription will cost you $0.36 at the moment of writing this.</description>
     </item>
     
   </channel>
