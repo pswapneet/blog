@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Whisper API on PSWAPNEET.com</title>
-    <link>https://nginx-production-66da.up.railway.app/tags/whisper-api/</link>
+    <link>https://blog-86v.pages.dev/tags/whisper-api/</link>
     <description>Recent content in Whisper API on PSWAPNEET.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Mar 2023 20:37:33 +0100</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/tags/whisper-api/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Mar 2023 20:37:33 +0100</lastBuildDate><atom:link href="https://blog-86v.pages.dev/tags/whisper-api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Python Speech to Text using OpenAI API, Gradio, and PyAutoGUI</title>
-      <link>https://nginx-production-66da.up.railway.app/posts/speech2text/</link>
+      <link>https://blog-86v.pages.dev/posts/speech2text/</link>
       <pubDate>Thu, 23 Mar 2023 20:37:33 +0100</pubDate>
       
-      <guid>https://nginx-production-66da.up.railway.app/posts/speech2text/</guid>
+      <guid>https://blog-86v.pages.dev/posts/speech2text/</guid>
       <description>Here are the steps to install the Speech to Text Python program:
   Make sure that you have Python3 and pip installed on your system.
   Visit https://platform.openai.com/account/api-keys and make an API Key if you do not have one. Note that you have to activate a payment method too because the API is not free, although it is reasonably priced (1hr of transcription will cost you $0.36 at the moment of writing this.</description>

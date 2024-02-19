@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Public Service Announcement on PSWAPNEET.com</title>
-    <link>https://nginx-production-66da.up.railway.app/categories/public-service-announcement/</link>
+    <link>https://blog-86v.pages.dev/categories/public-service-announcement/</link>
     <description>Recent content in Public Service Announcement on PSWAPNEET.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/categories/public-service-announcement/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog-86v.pages.dev/categories/public-service-announcement/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redployed (again)</title>
-      <link>https://nginx-production-66da.up.railway.app/posts/2023-09-05-redployed-again/</link>
+      <link>https://blog-86v.pages.dev/posts/2023-09-05-redployed-again/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nginx-production-66da.up.railway.app/posts/2023-09-05-redployed-again/</guid>
+      <guid>https://blog-86v.pages.dev/posts/2023-09-05-redployed-again/</guid>
       <description>The blog is redployed again. My Railway account changed. Planning some changes. Trying to make it less cringe. Layout is not the best still. If for whatever reason you want to contact me, send me an email: pswapneet@gmail.com. Do not contact me on Twitter or Discord, I am not active there at all. Might get back on Discord, but Twitter (X) I will probably not use at all.</description>
     </item>
     
     <item>
       <title>New Year, New Meme!</title>
-      <link>https://nginx-production-66da.up.railway.app/posts/newyear/</link>
+      <link>https://blog-86v.pages.dev/posts/newyear/</link>
       <pubDate>Sat, 31 Dec 2022 21:27:01 +0100</pubDate>
       
-      <guid>https://nginx-production-66da.up.railway.app/posts/newyear/</guid>
+      <guid>https://blog-86v.pages.dev/posts/newyear/</guid>
       <description>Hurry, need to make a post before 2022 is over! I know I said I was going to maintain this blog. I did not do that. Ok so thankfully this year is almost over since it has been quite bad for many reasons.
 I have not been doing any web dev at all during the fall or winter. In fact I had to google how to make a post since I forgot ($ hugo new posts/nameofpost.</description>
     </item>
     
     <item>
       <title>Redeployed</title>
-      <link>https://nginx-production-66da.up.railway.app/posts/redeployed/</link>
+      <link>https://blog-86v.pages.dev/posts/redeployed/</link>
       <pubDate>Mon, 22 Aug 2022 23:24:43 +0200</pubDate>
       
-      <guid>https://nginx-production-66da.up.railway.app/posts/redeployed/</guid>
+      <guid>https://blog-86v.pages.dev/posts/redeployed/</guid>
       <description>The blog is online again I was too lazy to do it quick The summer is almost over and I have to start being productive again. The blog was offline because of a change in my Railway.app account. It is now online again and I will update it at least twice a month to update about things that I am working on. I promise not to be too lazy. First order of business should be to update the Links and the About page, and adding some images here and there.</description>
     </item>
     
     <item>
       <title>I&#39;m Working On It!</title>
-      <link>https://nginx-production-66da.up.railway.app/posts/working/</link>
+      <link>https://blog-86v.pages.dev/posts/working/</link>
       <pubDate>Sun, 24 Jul 2022 21:29:43 +0200</pubDate>
       
-      <guid>https://nginx-production-66da.up.railway.app/posts/working/</guid>
+      <guid>https://blog-86v.pages.dev/posts/working/</guid>
       <description>I&amp;rsquo;m working on it! A timeless phrase that all NEETs should always remember. Well, July is almost over, I said I was working on something, so here it is, it&amp;rsquo;s not much for now but it&amp;rsquo;s something. I&amp;rsquo;m learning the DevOps to get things as right as possible from the get-go.</description>
     </item>
     

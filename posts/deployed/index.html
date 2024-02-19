@@ -9,15 +9,15 @@
 <meta name="keywords" content="Webdev, Railway.app, Hugo, PaperMod, Deployment">
 <meta name="description" content="Instructions for Railway.app simple deployment! A quick update on how it is deployed and comments on the immediate future! I don&rsquo;t need a database, so I use Hugo, and theme is called PaperMod. I would like a slightly different layout, but this will have to do for now since I need to work on other things than CSS. I will add some more graphics as soon as possible and update the About and Links page.">
 <meta name="author" content="">
-<link rel="canonical" href="https://nginx-production-66da.up.railway.app/posts/deployed/">
+<link rel="canonical" href="https://blog-86v.pages.dev/posts/deployed/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.fc55ac2b5b6209b192cf9680d1812305879d38084ffd3e082b0a7a7085937748.css" integrity="sha256-/FWsK1tiCbGSz5aA0YEjBYedOAhP/T4IKwp6cIWTd0g=" rel="preload stylesheet" as="style">
 <script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
     onload="hljs.initHighlightingOnLoad();"></script>
-<link rel="icon" href="https://nginx-production-66da.up.railway.app/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://nginx-production-66da.up.railway.app/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://nginx-production-66da.up.railway.app/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://nginx-production-66da.up.railway.app/apple-touch-icon.png">
-<link rel="mask-icon" href="https://nginx-production-66da.up.railway.app/safari-pinned-tab.svg">
+<link rel="icon" href="https://blog-86v.pages.dev/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://blog-86v.pages.dev/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://blog-86v.pages.dev/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://blog-86v.pages.dev/apple-touch-icon.png">
+<link rel="mask-icon" href="https://blog-86v.pages.dev/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
 <noscript>
@@ -56,10 +56,10 @@
         }
 
     </style>
-</noscript><link rel="stylesheet" href="https://nginx-production-66da.up.railway.app/css/common/custom_header.css"><meta property="og:title" content="The blog site is deployed! How did I do it?" />
+</noscript><link rel="stylesheet" href="https://blog-86v.pages.dev/css/common/custom_header.css"><meta property="og:title" content="The blog site is deployed! How did I do it?" />
 <meta property="og:description" content="Instructions for Railway.app simple deployment! A quick update on how it is deployed and comments on the immediate future! I don&rsquo;t need a database, so I use Hugo, and theme is called PaperMod. I would like a slightly different layout, but this will have to do for now since I need to work on other things than CSS. I will add some more graphics as soon as possible and update the About and Links page." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://nginx-production-66da.up.railway.app/posts/deployed/" /><meta property="article:section" content="posts" />
+<meta property="og:url" content="https://blog-86v.pages.dev/posts/deployed/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-07-26T22:51:42&#43;02:00" />
 <meta property="article:modified_time" content="2022-07-26T22:51:42&#43;02:00" />
 
@@ -77,13 +77,13 @@
       "@type": "ListItem",
       "position":  2 ,
       "name": "Posts",
-      "item": "https://nginx-production-66da.up.railway.app/posts/"
+      "item": "https://blog-86v.pages.dev/posts/"
     }, 
     {
       "@type": "ListItem",
       "position":  3 ,
       "name": "The blog site is deployed! How did I do it?",
-      "item": "https://nginx-production-66da.up.railway.app/posts/deployed/"
+      "item": "https://blog-86v.pages.dev/posts/deployed/"
     }
   ]
 }
@@ -105,14 +105,14 @@
   "dateModified": "2022-07-26T22:51:42+02:00",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://nginx-production-66da.up.railway.app/posts/deployed/"
+    "@id": "https://blog-86v.pages.dev/posts/deployed/"
   },
   "publisher": {
     "@type": "Organization",
     "name": "PSWAPNEET.com",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://nginx-production-66da.up.railway.app/favicon.ico"
+      "url": "https://blog-86v.pages.dev/favicon.ico"
     }
   }
 }
@@ -135,7 +135,7 @@
     <nav class="nav">
         <div class="logo">
             <a href="https://nginx-production-66da.up.railway.app" accesskey="h" title="PSWAPNEET.com (Alt + H)">
-                <img src="https://nginx-production-66da.up.railway.app/img/neet_cc_transparent.png" alt="" aria-label="logo"
+                <img src="https://blog-86v.pages.dev/img/neet_cc_transparent.png" alt="" aria-label="logo"
                     height="30">PSWAPNEET.com</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
@@ -162,17 +162,17 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="https://nginx-production-66da.up.railway.app/categories/" title="Categories">
+                <a href="https://blog-86v.pages.dev/categories/" title="Categories">
                     <span>Categories</span>
                 </a>
             </li>
             <li>
-                <a href="https://nginx-production-66da.up.railway.app/tags/" title="Topics">
+                <a href="https://blog-86v.pages.dev/tags/" title="Topics">
                     <span>Topics</span>
                 </a>
             </li>
             <li>
-                <a href="https://nginx-production-66da.up.railway.app/about/" title="Who is this lazy NEET, and why is he degen posting?">
+                <a href="https://blog-86v.pages.dev/about/" title="About">
                     <span>About</span>
                 </a>
             </li>
@@ -282,11 +282,11 @@
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://nginx-production-66da.up.railway.app/tags/webdev/">Webdev</a></li>
-      <li><a href="https://nginx-production-66da.up.railway.app/tags/railway.app/">Railway.app</a></li>
-      <li><a href="https://nginx-production-66da.up.railway.app/tags/hugo/">Hugo</a></li>
-      <li><a href="https://nginx-production-66da.up.railway.app/tags/papermod/">PaperMod</a></li>
-      <li><a href="https://nginx-production-66da.up.railway.app/tags/deployment/">Deployment</a></li>
+      <li><a href="https://blog-86v.pages.dev/tags/webdev/">Webdev</a></li>
+      <li><a href="https://blog-86v.pages.dev/tags/railway.app/">Railway.app</a></li>
+      <li><a href="https://blog-86v.pages.dev/tags/hugo/">Hugo</a></li>
+      <li><a href="https://blog-86v.pages.dev/tags/papermod/">PaperMod</a></li>
+      <li><a href="https://blog-86v.pages.dev/tags/deployment/">Deployment</a></li>
     </ul>
   </footer>
 </article>
@@ -297,7 +297,7 @@
     <span>
         <br /> Powered by <a href="https://www.twitter.com/pswapneet"\ 
         target="_blank">@PSWAPNEET</a> using the power
-         of <a href="https://www.railway.app" target="_blank">Railway</a>, 
+         of <a href="https://pages.cloudflare.com" target="_blank">Cloudflare Pages</a>, 
         <a href="https://www.gohugo.io" target="_blank">Hugo</a>,
          and <a href="https://github.com/adityatelange/hugo-PaperMod/" target="_blank">PaperMod</a>
     </span>

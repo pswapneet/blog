@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PSA on PSWAPNEET.com</title>
-    <link>https://nginx-production-66da.up.railway.app/tags/psa/</link>
+    <link>https://blog-86v.pages.dev/tags/psa/</link>
     <description>Recent content in PSA on PSWAPNEET.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Aug 2022 23:24:43 +0200</lastBuildDate><atom:link href="https://nginx-production-66da.up.railway.app/tags/psa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 23:24:43 +0200</lastBuildDate><atom:link href="https://blog-86v.pages.dev/tags/psa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redeployed</title>
-      <link>https://nginx-production-66da.up.railway.app/posts/redeployed/</link>
+      <link>https://blog-86v.pages.dev/posts/redeployed/</link>
       <pubDate>Mon, 22 Aug 2022 23:24:43 +0200</pubDate>
       
-      <guid>https://nginx-production-66da.up.railway.app/posts/redeployed/</guid>
+      <guid>https://blog-86v.pages.dev/posts/redeployed/</guid>
       <description>The blog is online again I was too lazy to do it quick The summer is almost over and I have to start being productive again. The blog was offline because of a change in my Railway.app account. It is now online again and I will update it at least twice a month to update about things that I am working on. I promise not to be too lazy. First order of business should be to update the Links and the About page, and adding some images here and there.</description>
     </item>
     
     <item>
       <title>I&#39;m Working On It!</title>
-      <link>https://nginx-production-66da.up.railway.app/posts/working/</link>
+      <link>https://blog-86v.pages.dev/posts/working/</link>
       <pubDate>Sun, 24 Jul 2022 21:29:43 +0200</pubDate>
       
-      <guid>https://nginx-production-66da.up.railway.app/posts/working/</guid>
+      <guid>https://blog-86v.pages.dev/posts/working/</guid>
       <description>I&amp;rsquo;m working on it! A timeless phrase that all NEETs should always remember. Well, July is almost over, I said I was working on something, so here it is, it&amp;rsquo;s not much for now but it&amp;rsquo;s something. I&amp;rsquo;m learning the DevOps to get things as right as possible from the get-go.</description>
     </item>
     
